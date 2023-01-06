@@ -1,0 +1,2 @@
+# richard.ev
+tech journey
